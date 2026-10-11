@@ -173,7 +173,7 @@ export const TranslationContainer = ({
                             className="mod-cta" 
                             onClick={() => setIsSelectionMode(true)}
                         >
-                            DeepL 批量模式
+                            MT
                         </button>
                     ) : (
                         <>
